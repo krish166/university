@@ -1,0 +1,12 @@
+com\balazsholczer\service\adduniversity\AddUniversityService.class
+com\balazsholczer\service\showuniversities\ShowAllUniversitiesService.class
+com\balazsholczer\service\adduniversity\AddUniversityServiceImpl.class
+com\balazsholczer\service\universitystats\UniversityStatsServiceImpl.class
+com\balazsholczer\service\addstudent\AddStudentServiceImpl.class
+com\balazsholczer\service\showuniversities\ShowAllUniversitiesServiceImpl.class
+com\balazsholczer\service\universitystats\UniversityStatsService.class
+com\balazsholczer\service\addstudent\AddStudentService.class
+com\balazsholczer\service\removestudent\RemoveStudentServiceImpl.class
+com\balazsholczer\service\removestudent\RemoveStudentService.class
+com\balazsholczer\service\showstudents\ShowStudentsService.class
+com\balazsholczer\service\showstudents\ShowStudentsServiceImpl.class

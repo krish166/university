@@ -1,0 +1,6 @@
+com\balazsholczer\repository\removestudent\RemoveStudentRepository.class
+com\balazsholczer\repository\addstudent\ShowAllStudentsRepository.class
+com\balazsholczer\repository\university\AddUniversityRepository.class
+com\balazsholczer\repository\addstudent\AddStudentRepository.class
+com\balazsholczer\repository\university\ShowAllUniversitiesRepository.class
+com\balazsholczer\repository\university\UniversityStatisticsRepository.class
